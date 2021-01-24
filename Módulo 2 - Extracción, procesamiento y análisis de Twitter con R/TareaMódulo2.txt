@@ -1,0 +1,14 @@
+Para quienes quieran solicitar el certificado de aprovechamiento, para aprobar el porcentaje correspondiente al módulo 2,
+le  solicitaremos que realicen un script que permita ejecutar las siguientes acciones.
+(No se asusten, pueden hacerlo con sólo cortar y pegar algunos scripts de este modulo!)
+
+    -Descargar datos de Twitter con una de las funciones que hemos aprendido (search_tweets, get_timeline, stream.tweets, etc).
+     Guardar la base de datos como archivo .rds 
+    -Realizar uno de los ejercicios propuestos en la clase 1, la clase 2 o en la carpeta "Otros Scripts" 
+     ( limpieza de texto y nube de palabras; rankings de RT , top de favs, localización, georreferenciación, red de hashtags).
+     Guarde el  producto final (plot, mapa, nube o red) en un archivo JPEG.
+
+En síntesis, para evaluar el módulo 2 le solicitaremos tres archivos: el script, la base de datos, una imagen con el resultado
+final del ejercicio. 
+
+Fecha de entrega máxima: Jueves 21 de enero [23.59 hora España - 19.59 hora Argentina]

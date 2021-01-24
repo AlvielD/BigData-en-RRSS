@@ -1,0 +1,7 @@
+Quienes quieran solicitar el certificado de aprovechamiento deberán enviar un script que permita correr el código completo del
+ejercicio01 pero cambiando la pagina web. O sea, el script nos debe permitir raspar la información de una pagina web 'nueva'
+(que no hayamos visto en el curso), analizarla y devolver un gráfico de barras con la frecuencia decreciente de palabras. 
+
+	-En síntesis, para aprobar el módulo 3 deben enviar 2 archivos: el script y el gráfico de barras. 
+
+Fecha tope de entrega: Jueves 28 de febrero [23.59 hora España - 19.59 hora Argentina]
