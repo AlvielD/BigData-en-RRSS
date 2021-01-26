@@ -5,11 +5,11 @@
 library(rtweet)
 library(tidyverse)
 
-# Guardamos nuestras claves en variables
-api_key <- "n0zihT8RhgzbnoQoT02iLGFPp"
-api_secret_key <- "Jv72TVss1NBHsDoTezNdybuW1ors0M28u0IHCqCgLzIO8hNKDJ"
-access_token <- "1344609429543653377-9RC4xllEhCYOvYpKoF1dG4RO2sTVLT"
-access_token_secret <- "QwVL3WjYmV6yECUTBUBZkRbhsvMoDd0jJ6lrCjaQzhKWQ"
+# Guardamos nuestras claves de desarrollador de twitter en variables (No las pongo por privacidad)
+api_key <- ""
+api_secret_key <- ""
+access_token <- ""
+access_token_secret <- ""
 
 # Creamos el token de acceso con nuestras claves
 token_acceso <- create_token(
